@@ -1,0 +1,16 @@
+/* Adjust layout for smaller screens */
+@media screen and (max-width: 768px) {
+  .container {
+    width: 90%;
+    margin: 0 auto;
+  }
+  h1 {
+    font-size: 1.5rem;
+  }
+  h2 {
+    font-size: 1.2rem;
+  }
+  form {
+    margin: 1rem 0;
+  }
+}
